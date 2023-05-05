@@ -1,9 +1,8 @@
 👋 Hello! I’m Juliano Almeida,
  
-:checkyes: Check my portfolio website for more information: http://juliano.digital
+Check out my Portfolio Website for more information: http://juliano.digital
 
 Thank you!
-@juliano-g-almeida
 
 <!---
 juliano-g-almeida/juliano-g-almeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
