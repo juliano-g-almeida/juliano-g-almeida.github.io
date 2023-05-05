@@ -1,6 +1,6 @@
 👋 Hello! I’m Juliano Almeida,
  
-Check my portfolio website for more information: http://juliano.digital
+:checkyes: Check my portfolio website for more information: http://juliano.digital
 
 Thank you!
 @juliano-g-almeida
